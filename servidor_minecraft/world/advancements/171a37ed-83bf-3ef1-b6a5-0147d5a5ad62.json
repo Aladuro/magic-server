@@ -1,0 +1,36 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-17 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-17 03:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-09-17 03:37:37 +0000",
+      "minecraft:birch_forest": "2025-09-17 14:45:49 +0000",
+      "minecraft:stony_shore": "2025-09-17 14:45:59 +0000",
+      "minecraft:forest": "2025-09-17 14:41:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-09-17 14:44:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-17 14:44:38 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
